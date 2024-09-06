@@ -10,17 +10,17 @@ Input Files
 2. 
 Problem Description
 
-Step 1: Graph Construction and Analysis
+# Step 1: Graph Construction and Analysis
 •  a. Construct the Directed Graph: Create a directed graph from the input data.
 
 •  b. Statistical Information: Provide statistical information about the graph.
 
 •  c. Centrality Measures: Report and analyze centrality measures for the nodes, identifying the top 5 nodes for each measure.
 
-Step 2: Network Metrics and Analysis
+# Step 2: Network Metrics and Analysis
 •  Use various network metrics such as centrality, degree distribution, clustering coefficient, etc., to identify the most important nodes in the graph and provide an analysis.
 
-Step 3: Graph Coloring and Community Detection
+# Step 3: Graph Coloring and Community Detection
 •  Color the graph based on node labels, ensuring nodes with the same label have the same color.
 
 •  Analyze the colored graph and report interesting findings.
@@ -29,12 +29,12 @@ Step 3: Graph Coloring and Community Detection
 
 •  Discuss whether community detection methods can classify nodes based on their labels.
 
-Step 4: Disease Spread Simulation
+# Step 4: Disease Spread Simulation
 •  Consider nodes with label 1L as infected.
 
 •  Identify nodes with the highest probability of infection among nodes with unknown labels.
 
-Step 5: Label Prediction
+# Step 5: Label Prediction
 •  Use three different strategies to predict labels for nodes with unknown labels.
 
 •  Enter the predicted labels in the Excel file and provide an analysis of the predictions.
